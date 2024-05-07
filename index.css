@@ -1,0 +1,43 @@
+.div-red {
+    background-color: red;
+
+}
+
+.div-blue {
+    background-color: blue;
+
+}
+
+.div-green {
+    background-color: green;
+    position: absolute;
+
+}
+
+.div-yellow {
+    background-color: yellow;
+
+}
+
+.div-orange {
+    background-color: orange;
+
+}
+
+
+.div-style {
+
+    width: 100%;
+    height: 100px;
+}
+
+body {
+    height: 150vh;
+}
+
+.container {
+    background-color: aqua;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: relative;
+}

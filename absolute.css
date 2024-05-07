@@ -1,0 +1,28 @@
+.div-top{
+    height: 100px;
+    background-color: red;
+    position: fixed;
+    top: 0px;
+}
+
+.div-mid{
+    height: 150vh;
+    background-color: green;
+    width: 10%;
+}
+
+
+.div-bottom{
+    height: 100px;
+    background-color: yellow;
+    position: sticky;
+    bottom: 0px;
+   
+}
+
+
+.container{
+ position: relative;
+ height: 100vh;
+
+}
